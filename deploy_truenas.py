@@ -12,7 +12,7 @@ The config file contains your root password or API key, so it should only be rea
 root.  Your private key should also only be readable by root, so this script must run 
 with root privileges.
 
-Source: https://github.com/danb35/deploy-freenas
+Source: https://github.com/NSHenry/deploy-truenas-cert
 """
 
 import argparse
