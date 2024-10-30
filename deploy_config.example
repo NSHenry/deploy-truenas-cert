@@ -34,11 +34,11 @@ fullchain_path = /mnt/tank/home/admin/truenas.crt
 
 # protocol sets the connection protocol, http or https.  Include '://' at the end.
 # Default is http
-protocol = https://
+# protocol = https://
 
 # port sets the port to use to connect.  Default is 80.  If protocol is https,
 # this MUST be set to your https port.
-port = 443
+# port = 443
 
 # set ui_certificate_enabled to false if you want to skip using the new cerificate for the UI. Default is true.
 # ui_certificate_enabled = false
